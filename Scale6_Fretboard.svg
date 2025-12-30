@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="Scale6_Fretboard.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="119.14749"
+     inkscape:cy="19.445437"
+     inkscape:window-width="1837"
+     inkscape:window-height="1051"
+     inkscape:window-x="74"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Fretboard"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true"
+     transform="scale(1.4802632,1.5)">
+    <rect
+       style="fill:#000000;stroke-width:0.3"
+       id="rect1"
+       width="0.80000001"
+       height="30"
+       x="0"
+       y="-1.4210855e-14"
+       inkscape:tile-cx="0.4"
+       inkscape:tile-cy="15"
+       inkscape:tile-w="0.79999999"
+       inkscape:tile-h="29.999999"
+       inkscape:tile-x0="0"
+       inkscape:tile-y0="-1.4210854e-14" />
+    <rect
+       style="fill:#000000;stroke-width:0.3"
+       id="rect2"
+       width="60"
+       height="0.60000002"
+       x="0"
+       y="29.4" />
+    <rect
+       style="fill:#000000;stroke-width:0.193649"
+       id="rect2-8"
+       width="60"
+       height="0.25"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#000000;stroke-width:0.244949"
+       id="rect2-86"
+       width="60"
+       height="0.40000001"
+       x="0"
+       y="17.67" />
+    <rect
+       style="fill:#000000;stroke-width:0.212132"
+       id="rect2-6"
+       width="60"
+       height="0.30000001"
+       x="0"
+       y="5.8899999" />
+    <rect
+       style="fill:#000000;stroke-width:0.212132"
+       id="rect2-0"
+       width="60"
+       height="0.30000001"
+       x="0"
+       y="11.805" />
+    <rect
+       style="fill:#000000;stroke-width:0.244949"
+       id="rect2-9"
+       width="60"
+       height="0.40000001"
+       x="0"
+       y="23.584999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       id="use2"
+       transform="translate(8.5714286)" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(17.142857)"
+       id="use3" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(25.714286)"
+       id="use4" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(34.285714)"
+       id="use5" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(42.857143)"
+       id="use6" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(51.428571)"
+       id="use7" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(60)"
+       id="use8" />
+  </g>
+</svg>

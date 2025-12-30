@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="Chord_Fretboard_v2_nut.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.0989207"
+     inkscape:cx="82.185096"
+     inkscape:cy="135.06942"
+     inkscape:window-width="1837"
+     inkscape:window-height="1051"
+     inkscape:window-x="74"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Fretboard" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Chord_Fretboard"
+     transform="translate(-49.999998,-49.999998)">
+    <g
+       id="Fretboard"
+       transform="matrix(1.4999999,0,0,1.4999999,-24.999995,-24.999992)">
+      <g
+         id="Frets">
+        <rect
+           style="fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.06;stroke-dasharray:none;stroke-opacity:1"
+           id="Nut"
+           width="30"
+           height="2"
+           x="50"
+           y="50" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.0379473;stroke-dasharray:none;stroke-opacity:1"
+           id="1st"
+           width="30"
+           height="0.80000001"
+           x="50"
+           y="60.799999" />
+        <rect
+           style="display:inline;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.0379473;stroke-dasharray:none;stroke-opacity:1"
+           id="2nd"
+           width="30"
+           height="0.80000001"
+           x="50"
+           y="70.400002" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.0379473;stroke-dasharray:none;stroke-opacity:1"
+           id="3rd"
+           width="30"
+           height="0.80000001"
+           x="50"
+           y="80" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.0379473;stroke-dasharray:none;stroke-opacity:1"
+           id="4th"
+           width="30"
+           height="0.80000001"
+           x="50"
+           y="89.599998" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.0379473;stroke-dasharray:none;stroke-opacity:1"
+           id="5th"
+           width="30"
+           height="0.80000001"
+           x="50"
+           y="99.199997" />
+      </g>
+      <g
+         id="Strings">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0447791;stroke-dasharray:none;stroke-opacity:1"
+           id="e-string"
+           width="0.205"
+           height="49.955223"
+           x="79.772392"
+           y="50.022392" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0494733;stroke-dasharray:none;stroke-opacity:1"
+           id="B-string"
+           width="0.25099999"
+           height="49.950527"
+           x="73.83474"
+           y="50.024738" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0494733;stroke-dasharray:none;stroke-opacity:1"
+           id="G-string"
+           width="0.25099999"
+           height="49.950527"
+           x="67.919739"
+           y="50.024738" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.166534;stroke-dasharray:none;stroke-opacity:1"
+           id="D-string"
+           width="0.59083152"
+           height="49.833469"
+           x="61.967918"
+           y="50.083263" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.199796;stroke-dasharray:none;stroke-opacity:1"
+           id="A-string"
+           width="0.71657407"
+           height="49.800209"
+           x="56.056713"
+           y="50.099895" />
+        <rect
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.266375;stroke-dasharray:none;stroke-opacity:1"
+           id="E-string"
+           width="0.79951727"
+           height="49.733627"
+           x="50.133186"
+           y="50.133186" />
+      </g>
+    </g>
+  </g>
+</svg>

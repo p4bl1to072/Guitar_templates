@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="Scale15_Fretboard.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="932.32027"
+     inkscape:cy="196.22213"
+     inkscape:window-width="1837"
+     inkscape:window-height="1051"
+     inkscape:window-x="74"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Fretboard"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true"
+     transform="scale(1.5)">
+    <rect
+       style="fill:#000000;stroke-width:0.3"
+       id="rect1"
+       width="0.80000001"
+       height="30"
+       x="0"
+       y="-1.4210855e-14"
+       inkscape:tile-cx="0.4"
+       inkscape:tile-cy="15"
+       inkscape:tile-w="0.79999999"
+       inkscape:tile-h="29.999999"
+       inkscape:tile-x0="0"
+       inkscape:tile-y0="-1.4210854e-14" />
+    <rect
+       style="fill:#000000;stroke-width:0.474342"
+       id="rect2"
+       width="150"
+       height="0.60000002"
+       x="0"
+       y="29.4" />
+    <rect
+       style="fill:#000000;stroke-width:0.306186"
+       id="rect2-8"
+       width="150"
+       height="0.25"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#000000;stroke-width:0.387298"
+       id="rect2-86"
+       width="150"
+       height="0.40000001"
+       x="0"
+       y="17.67" />
+    <rect
+       style="fill:#000000;stroke-width:0.33541"
+       id="rect2-6"
+       width="150"
+       height="0.30000001"
+       x="0"
+       y="5.8899999" />
+    <rect
+       style="fill:#000000;stroke-width:0.33541"
+       id="rect2-0"
+       width="150"
+       height="0.30000001"
+       x="0"
+       y="11.805" />
+    <rect
+       style="fill:#000000;stroke-width:0.387298"
+       id="rect2-9"
+       width="150"
+       height="0.40000001"
+       x="0"
+       y="23.584999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       id="use3"
+       transform="translate(9.325)" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(18.65)"
+       id="use4" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(27.975)"
+       id="use5" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(37.3)"
+       id="use6" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(46.625)"
+       id="use7" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(55.95)"
+       id="use8" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(65.275)"
+       id="use9" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(74.6)"
+       id="use10" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(83.925)"
+       id="use11" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(93.25)"
+       id="use12" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(102.575)"
+       id="use13" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(111.9)"
+       id="use14" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(121.225)"
+       id="use15" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(130.55)"
+       id="use16" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(139.875)"
+       id="use17" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect1"
+       xlink:href="#rect1"
+       transform="translate(149.2)"
+       id="use18" />
+  </g>
+</svg>
